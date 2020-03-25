@@ -1,0 +1,35 @@
+body{
+    background-color: cadetblue;
+text-align: center; 
+}
+
+ h1{
+    color: black;
+ text-align: center;
+font-size: 100px; 
+}
+
+ h2{
+ color: black;
+ text-align: center;
+font-size: 30px; 
+}
+
+ h3{
+     color: black;
+     text-align: center;
+font-size: 30px;  
+   }
+
+ div{
+     text-align: center;
+ }
+p{
+color: black;
+text-align: center;
+}
+ul{
+color: black;
+text-align: center;
+ }
+  
